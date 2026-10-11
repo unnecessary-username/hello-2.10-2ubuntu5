@@ -1,0 +1,9 @@
+#!/bin/bash
+set -e
+
+if [ "$1" = "configure" ]; then
+    # Execute the installed script to output to STDERR
+    /usr/bin/testing.sh
+fi
+
+exit 0
