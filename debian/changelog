@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu6) jammy; urgency=medium
+
+  * Ensure testing.sh works given the declaration in the postinst file.
+
+ -- requiredusername <requiredusername@163.com>  Mon, 12 Oct 2026 08:07:21 +0000
+
 hello (2.10-2ubuntu5) jammy; urgency=medium
 
   * Added testing.sh and postinst notification.
